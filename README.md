@@ -1,7 +1,7 @@
 For my Signature Work Portfolio, I decided to showcase three different projects that I have worked on while studying at St. Thomas. Two of these projects were assignments from relevant courses,
 and the other project was from a task for my part time job. 
 
-The first project that I wanted to touch on was an assignment that I completed while taking my Design & Programming course (CISC 230) with Dr. Yilek. In the Epoch Converter Java file, you can find code 
+The first project that I wanted to touch on was an assignment that I completed while taking my Design & Programming course (CISC 230) with Dr. Yilek. In the [Epoch Converter](EpochConverter.java) java file, you can find code 
 that converts a given date into epoch time. Additionally, the code outputs the current date's epoch time, and provides the user with a random date from the entered year. This lab was the first lab 
 for the class, and was really one of the first times that I had been tasked with writing java code on my own. From this lab, I learned some of the basic coding techniques and learned out to properly 
 outline code with comments. I have also found this code to be useful even after taking this course. There have been times where I have had to deal with epoch time, so having this code as a reference is very helpful. 
