@@ -13,3 +13,6 @@ five page count requirement)
 
 For my Signature Work Portfolio, I decided to showcase 4 different projects that I have worked on while studying at St. Thomas. Three of these projects were assignments from relavent courses,
 and the other project was a task for my part time job. 
+
+The first project that I want to touch on is an assignment that I completed while taking my Design & Programming course (CISC 230) with Dr. Yilek. As you can see in the [Uploading EpochConverter.java…]()
+
