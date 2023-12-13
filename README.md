@@ -1,18 +1,12 @@
-# Signature-Work-Portfolio
-Write your "reflection" in either a"README.md" file in your root namespace (your-
-github-name/README.md) or in a separate document
-• In your reflection, link to and contextualize at least three GitHub projects that are
-either your personal projects, course assignments, or other projects to which you
-have contributed (but not RCDS)
-• Your reflection will need to address at least one of the linked projects from a
-domain-specific point of view
-• Include project-level "README.md" files to describe the linked projects (I will count
-each of the linked project "README.md" files that you wrote toward the reflection's
-five page count requirement)
+For my Signature Work Portfolio, I decided to showcase three different projects that I have worked on while studying at St. Thomas. Two of these projects were assignments from relavent courses,
+and the other project was from a task for my part time job. 
 
+The first project that I wanted to touch on was an assignment that I completed while taking my Design & Programming course (CISC 230) with Dr. Yilek. As you can see in the [Epoch Converter](EpochConverter.java) java 
+file, I have some java code that converts a given date into epoch time. The code also outputs the current date's epoch time, and gives the user a random date from the year that they had entered. This lab was the 
+first lab for the class, and was really one of the first times that I had been tasked with writing java code on my own. From this lab, I learned some of the basic coding techniques and learned out to properly 
+outline code with comments.
 
-For my Signature Work Portfolio, I decided to showcase 4 different projects that I have worked on while studying at St. Thomas. Three of these projects were assignments from relavent courses,
-and the other project was a task for my part time job. 
-
-The first project that I want to touch on is an assignment that I completed while taking my Design & Programming course (CISC 230) with Dr. Yilek. As you can see in the [a relative link](EpochConverter.java)
+The second project that I wanted to highlight is from my Algorithms course (CISC 380) with Dr. Miracle. The homework comprised of two coding tasks. The first task can be located in the [Interleaver java file](Interleaver.java)
+and the [InterleaverDriver java file](InterleaverDriver.java). This code implemented a dynamic programming solution to checking if a string is interleaving or not. Dynamic programming was a new topic for me, so this code
+taught me how to break up big problems into smaller parts to solve complicated questions. 
 
