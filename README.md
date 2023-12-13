@@ -9,3 +9,7 @@ domain-specific point of view
 • Include project-level "README.md" files to describe the linked projects (I will count
 each of the linked project "README.md" files that you wrote toward the reflection's
 five page count requirement)
+
+
+For my Signature Work Portfolio, I decided to showcase 4 different projects that I have worked on while studying at St. Thomas. Three of these projects were assignments from relavent courses,
+and the other project was a task for my part time job. 
